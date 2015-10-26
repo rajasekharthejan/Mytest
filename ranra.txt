@@ -1,5 +1,3 @@
 change one
 change two
-change three
-
-now changing from remote locations
+delete the changes
